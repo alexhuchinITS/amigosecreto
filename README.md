@@ -1,25 +1,25 @@
 # SORTEO 🎁
 
 ![Logo de Amigo Secreto](assets/amigo-secreto.png)
+# Sorteo del Amigo Secreto
 
-¡Bienvenido al proyecto **Sorteo del Amigo Secreto**! Esta es una aplicación web sencilla que te permite organizar un sorteo de amigos secretos. 
+¡Gracias por visitar este proyecto! Se trata de una aplicación web simple y práctica diseñada para facilitar la organización de un sorteo de amigos secretos entre familiares o amigos.
 
-## Características principales 🌟
+## Funcionalidades destacadas
 
-- **Agregar participantes**: Ingresa los nombres de tus amigos o familiares para incluirlos en el sorteo.
-- **Validación de nombres**: Evita nombres duplicados y campos vacíos.
-- **Sorteo justo**: Genera parejas únicas de amigos secretos. Si el número de participantes es impar, un nombre puede repetirse en dos parejas.
-- **Interfaz amigable**: Diseño moderno y fácil de usar.
-- **Resultados en modal**: Los resultados del sorteo se muestran en un modal elegante.
-- **Reiniciar sorteo**: Limpia la lista de participantes y los resultados para empezar de nuevo.
+- Registro de participantes: Permite añadir los nombres de quienes participarán en el sorteo.
+- Control de entradas: Detecta nombres repetidos y evita que se dejen campos vacíos.
+- Asignación aleatoria y justa: Crea combinaciones únicas para el sorteo. En caso de tener un número impar de personas, un nombre podría aparecer dos veces en diferentes parejas.
+- Diseño intuitivo: Interfaz moderna, limpia y fácil de navegar.
+- Resultados visuales: Muestra los resultados dentro de un modal elegante y claro.
+- Reinicio rápido: Opción para borrar todos los datos e iniciar un nuevo sorteo desde cero.
 
-## Tecnologías utilizadas 🛠️
+## Tecnologías utilizadas
 
-- **HTML**: Estructura de la aplicación.
-- **CSS**: Estilos y diseño responsive.
-- **JavaScript**: Lógica del sorteo y manipulación del DOM.
-- **Google Fonts**: Fuentes personalizadas para una mejor experiencia visual.
+- HTML: Para estructurar los elementos de la aplicación.
+- CSS: Encargado del estilo visual y la adaptabilidad a distintos dispositivos.
+- JavaScript: Gestiona la lógica del sorteo y la interacción con el usuario.
+- Google Fonts: Mejora la presentación con tipografías personalizadas.
 
----
 
 
