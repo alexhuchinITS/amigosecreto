@@ -75,7 +75,7 @@ function sortearAmigo() {
         let amigoSecreto = opcionesDisponibles[indiceAleatorio];
 
         // Añadir el resultado al array de resultados
-        resultadoSorteo.push(`${amigoActual} ➡️ ${amigoSecreto}`);
+        resultadoSorteo.push(`${amigoActual} ->>> ${amigoSecreto}`);
 
         // Eliminar ambos amigos de la lista de disponibles
         amigosDisponibles = amigosDisponibles.filter(
